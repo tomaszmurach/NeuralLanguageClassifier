@@ -37,7 +37,7 @@ Examples:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NeuralLanguageClassifier.git
+   git clone https://github.com/tomaszmurach/NeuralLanguageClassifier.git
    cd NeuralLanguageClassifier
 
 2. Compile:
