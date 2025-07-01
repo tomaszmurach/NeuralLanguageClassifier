@@ -17,12 +17,12 @@ This project was created as part of an AI course (NAI 4) during my BSc studies i
 - Accuracy evaluated using F1-score and cross-validation
 
 ## 📁 Project Structure
-Perceptron.java # Core perceptron logic
-Layer.java # Manages perceptrons for multilabel output
-Main.java # Runs training and testing loop
-testEN.txt # English training data
-testPL.txt # Polish training data
-testES.txt # Spanish training data
+- Perceptron.java # Core perceptron logic
+- Layer.java # Manages perceptrons for multilabel output
+- Main.java # Runs training and testing loop
+- testEN.txt # English training data
+- testPL.txt # Polish training data
+- testES.txt # Spanish training data
 
 ## 📊 Input
 
